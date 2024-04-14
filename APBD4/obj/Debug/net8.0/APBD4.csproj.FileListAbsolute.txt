@@ -31,3 +31,4 @@ C:\Users\nazar\OneDrive\Documents\PJAIT\second_year\semester_2\APBD\Tutorial_01\
 C:\Users\nazar\OneDrive\Documents\PJAIT\second_year\semester_2\APBD\Tutorial_01\APBD4\APBD4\obj\Debug\net8.0\APBD4.pdb
 C:\Users\nazar\OneDrive\Documents\PJAIT\second_year\semester_2\APBD\Tutorial_01\APBD4\APBD4\obj\Debug\net8.0\APBD4.genruntimeconfig.cache
 C:\Users\nazar\OneDrive\Documents\PJAIT\second_year\semester_2\APBD\Tutorial_01\APBD4\APBD4\obj\Debug\net8.0\ref\APBD4.dll
+C:\Users\nazar\OneDrive\Documents\PJAIT\second_year\semester_2\APBD\Tutorial_01\APBD4\APBD4\obj\Debug\net8.0\APBD4.sourcelink.json
