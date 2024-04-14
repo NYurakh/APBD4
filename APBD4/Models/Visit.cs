@@ -1,4 +1,4 @@
-namespace APBD4;
+namespace APBD4.Models;
 
 public class Visit
 {
